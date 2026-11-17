@@ -1,16 +1,14 @@
 # Hi 👋, I'm Tototcs_
 
-### A random Full-Stack dev. I use arch btw 🐧.
+### I touch grass, sometimes. I use arch btw 🐧.
 
-- 🔭 I'm currently working on **Flowrhythm + contributing to other projects**
-
-- 💬 Ask me about **C++, low-level dev, web-dev**
+- 💬 Ask me about **C++, low-level dev, web-dev, reverse**
 
 - 📫 How to reach me **Session ID : 05e05acc5c28666c84902e1723cff73018364d19d4f8e02ae9d5ea2451c823710e | Discord : tototcs**
 
 - ⚡ Fun fact **Love privacy**
 
-- 👨‍💻 All of my projects are available at **[https://totgocpro.github.io/](https://totgocpro.github.io/)**
+- 👨‍💻 See my website : **[https://totgocpro.github.io/](https://totgocpro.github.io/)**
 
 <h3 align="left">Languages and Tools:</h3>
 
